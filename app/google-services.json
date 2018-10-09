@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "321377314742",
+    "firebase_url": "https://myreminder-147e6.firebaseio.com",
+    "project_id": "myreminder-147e6",
+    "storage_bucket": "myreminder-147e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321377314742:android:f73e1c483b240fd1",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.myreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321377314742-6fq6v2nft1mblk4et9vtbpv3h9t223gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.myreminder",
+            "certificate_hash": "39b628db43a28908ea27523f960cb30720a85b93"
+          }
+        },
+        {
+          "client_id": "321377314742-mgugt13lukpntlv9ksjamo7pds30hq68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdmcZQkZNxjsTRFFTgcudKIhOVfyT8dvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321377314742-mgugt13lukpntlv9ksjamo7pds30hq68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -5,6 +5,10 @@ public class ReminderModel {
     private String reminder;
     private String createDate;
 
+    public ReminderModel() {
+
+    }
+
     public ReminderModel(String reminder, String createDate) {
 
         this.reminder = reminder;
